@@ -19,8 +19,5 @@ This Flutter project integrates Firebase Cloud Messaging (FCM) to send and recei
 3. Run: `flutter pub get`
 4. Run on device: `flutter run`
 
-## 📲 Screenshot
-(Add 1-2 app screenshots showing push notification and token)
-
 ---
 Made with by Asif Shaikh
